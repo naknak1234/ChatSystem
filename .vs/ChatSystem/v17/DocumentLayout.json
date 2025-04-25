@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OOAD\\ChatSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\bin\\debug\\models\\tinyllama_inference.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:bin\\debug\\models\\tinyllama_inference.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\aichatwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:aichatwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\Utilities\\TinyLlamaModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:Utilities\\TinyLlamaModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\aichatwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:aichatwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\Commands\\ChatCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:Commands\\ChatCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\Models\\ChatMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:Models\\ChatMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|e:\\ooad\\chatsystem\\models\\localaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:models\\localaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\Utilities\\AIModelFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:Utilities\\AIModelFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\Utilities\\CSVHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:Utilities\\CSVHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\utilities\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:utilities\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\Utilities\\IAIModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:Utilities\\IAIModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\LoginWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:LoginWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\OOAD\\ChatSystem\\bin\\Debug\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\OOAD\\ChatSystem\\bin\\Debug\\chats.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\chats.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\StartsWithCoverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:StartsWithCoverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|E:\\OOAD\\ChatSystem\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A1BF1B-D517-45F6-9331-AA9420BE1C68}|ChatSystem.csproj|solutionrelative:MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\OOAD\\ChatSystem\\bin\\Debug\\chats_1.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\chats_1.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\OOAD\\ChatSystem\\bin\\Debug\\chats_2.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\chats_2.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocalAIModel.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\Models\\LocalAIModel.cs",
+              "RelativeDocumentMoniker": "Models\\LocalAIModel.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\Models\\LocalAIModel.cs",
+              "RelativeToolTip": "Models\\LocalAIModel.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:13:23.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIChatWindow.xaml.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\AIChatWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AIChatWindow.xaml.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\AIChatWindow.xaml.cs",
+              "RelativeToolTip": "AIChatWindow.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwG8BAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:41:15.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIChatWindow.xaml",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\AIChatWindow.xaml",
+              "RelativeDocumentMoniker": "AIChatWindow.xaml",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\AIChatWindow.xaml",
+              "RelativeToolTip": "AIChatWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T15:41:04.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:02:39.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Models\\ChatMessage.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "Models\\ChatMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:06:07.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tinyllama_inference.py",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\bin\\Debug\\models\\tinyllama_inference.py",
+              "RelativeDocumentMoniker": "bin\\Debug\\models\\tinyllama_inference.py",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\bin\\Debug\\models\\tinyllama_inference.py*",
+              "RelativeToolTip": "bin\\Debug\\models\\tinyllama_inference.py*",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-21T18:09:43.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TinyLlamaModel.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\Utilities\\TinyLlamaModel.cs",
+              "RelativeDocumentMoniker": "Utilities\\TinyLlamaModel.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\Utilities\\TinyLlamaModel.cs",
+              "RelativeToolTip": "Utilities\\TinyLlamaModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:11:09.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatCommand.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\Commands\\ChatCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\ChatCommand.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\Commands\\ChatCommand.cs",
+              "RelativeToolTip": "Commands\\ChatCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:11:50.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AIModelFactory.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\Utilities\\AIModelFactory.cs",
+              "RelativeDocumentMoniker": "Utilities\\AIModelFactory.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\Utilities\\AIModelFactory.cs",
+              "RelativeToolTip": "Utilities\\AIModelFactory.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA0wBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:10:12.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\Utilities\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "Utilities\\ConfigManager.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\Utilities\\ConfigManager.cs",
+              "RelativeToolTip": "Utilities\\ConfigManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:52:19.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CSVHandler.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\Utilities\\CSVHandler.cs",
+              "RelativeDocumentMoniker": "Utilities\\CSVHandler.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\Utilities\\CSVHandler.cs",
+              "RelativeToolTip": "Utilities\\CSVHandler.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAUwHgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:07:16.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAIModel.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\Utilities\\IAIModel.cs",
+              "RelativeDocumentMoniker": "Utilities\\IAIModel.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\Utilities\\IAIModel.cs",
+              "RelativeToolTip": "Utilities\\IAIModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:10:52.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA2wFsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:40:38.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T15:39:50.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T15:39:55.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:40:03.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LoginWindow.xaml",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\LoginWindow.xaml",
+              "RelativeToolTip": "LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T15:40:28.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "users.csv",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\bin\\Debug\\users.csv",
+              "RelativeDocumentMoniker": "bin\\Debug\\users.csv",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\bin\\Debug\\users.csv",
+              "RelativeToolTip": "bin\\Debug\\users.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-03-27T12:38:38.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "chats.csv",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\bin\\Debug\\chats.csv",
+              "RelativeDocumentMoniker": "bin\\Debug\\chats.csv",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\bin\\Debug\\chats.csv",
+              "RelativeToolTip": "bin\\Debug\\chats.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-03-27T12:38:34.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-22T16:10:52.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "chats_1.csv",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\bin\\Debug\\chats_1.csv",
+              "RelativeDocumentMoniker": "bin\\Debug\\chats_1.csv",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\bin\\Debug\\chats_1.csv",
+              "RelativeToolTip": "bin\\Debug\\chats_1.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-04T12:19:58.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "chats_2.csv",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\bin\\Debug\\chats_2.csv",
+              "RelativeDocumentMoniker": "bin\\Debug\\chats_2.csv",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\bin\\Debug\\chats_2.csv",
+              "RelativeToolTip": "bin\\Debug\\chats_2.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-04T12:20:07.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StartsWithCoverter.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\StartsWithCoverter.cs",
+              "RelativeDocumentMoniker": "StartsWithCoverter.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\StartsWithCoverter.cs",
+              "RelativeToolTip": "StartsWithCoverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:18:49.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\OOAD\\ChatSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\OOAD\\ChatSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:39:40.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
