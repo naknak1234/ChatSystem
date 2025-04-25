@@ -9,6 +9,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Threading;
 using ChatSystem.Models;
+using Microsoft.Extensions.Configuration; 
 
 namespace ChatSystem
 {
@@ -19,11 +20,26 @@ namespace ChatSystem
         private DateTime _passKeyTimestamp;
         private DispatcherTimer _cooldownTimer;
         private int _cooldownSeconds = 30;
-        private const string BotToken = "7122088475:AAGB61sykz1wnmTfxxC1vSJ83VrDCQEtE7k";
-        private const string ChatId = "5462002868";
+        private readonly string _botToken; 
+        private readonly string _chatId;   
 
         public LoginWindow()
         {
+            IConfiguration configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .Build();
+
+            _botToken = configuration["Telegram:BotToken"];
+            _chatId = configuration["Telegram:ChatId"];
+
+            if (string.IsNullOrEmpty(_botToken) || string.IsNullOrEmpty(_chatId))
+            {
+                MessageBox.Show("Telegram BotToken or ChatId is missing in appsettings.json.", "Configuration Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Close();
+                return;
+            }
+
             InitializeComponent();
             InitializeCooldownTimer();
             LoadUsers();
@@ -133,7 +149,7 @@ namespace ChatSystem
         private void SendGeneratedPassKeyToTelegramBot(string username, string passkey)
         {
             string message = $"Registrant Name:{Environment.NewLine}<code>{username}</code>{Environment.NewLine}Generated key:{Environment.NewLine}<code>{passkey}</code>";
-            string url = $"https://api.telegram.org/bot{BotToken}/sendMessage?chat_id={ChatId}&text={Uri.EscapeDataString(message)}&parse_mode=HTML";
+            string url = $"https://api.telegram.org/bot{_botToken}/sendMessage?chat_id={_chatId}&text={Uri.EscapeDataString(message)}&parse_mode=HTML";
             try
             {
                 using (WebClient client = new WebClient())
