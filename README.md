@@ -14,17 +14,17 @@ ChatSystem uses **TinyLlama-1.1B** and **Qwen2-7B-Instruct** models to provide s
 ---
 
 ## 📋 Table of Contents
-- [Prerequisites](#prerequisites)
-- [Setup Instructions](#setup-instructions)
-  - [Clone the Repository](#clone-the-repository)
-  - [Restore .NET Dependencies](#restore-net-dependencies)
-  - [Install Python Dependencies](#install-python-dependencies)
-  - [Download AI Models](#download-ai-models)
-  - [Configure the Project](#configure-the-project)
-- [Running the Application](#running-the-application)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
+- [Prerequisites](#-prerequisites)
+- [Setup Instructions](#%EF%B8%8F-setup-instructions)
+  - [Clone the Repository](#1-clone-the-repository)
+  - [Restore .NET Dependencies](#2-restore-net-dependencies)
+  - [Install Python Dependencies](#3-install-python-dependencies)
+  - [Download AI Models](#4-download-ai-models)
+  - [Configure the Project](#5-configure-the-project)
+- [Running the Application](#-running-the-application)
+- [Troubleshooting](#%EF%B8%8F-troubleshooting)
+- [Contributing](#-contributing)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -33,7 +33,7 @@ Before you begin, make sure you have:
 
 - 🖥️ **Windows OS** (Required for WPF)
 - 🛠️ **Visual Studio 2022** with **.NET Desktop Development** workload
-- 🐍 **Python 3.8+** installed and added to `PATH`
+- 🐍 **Python 3.10+** installed
 - 🌐 **Git** installed for cloning the repository
 - 📡 **Internet connection** for NuGet and Huggingface downloads
 
@@ -68,7 +68,7 @@ Install these **NuGet Packages**:
 - Right-click the solution in **Solution Explorer** → **Manage NuGet Packages for Solution** → Install the packages.
 
 #### Or via Package Manager Console:
-```bash
+```
 Install-Package Microsoft.Win32.SystemEvents
 Install-Package Newtonsoft.Json
 Install-Package Microsoft.VisualBasic
@@ -80,14 +80,14 @@ Install-Package Microsoft.Extensions.Configuration.Binder -Version 6.0.0
 ```
 
 > 🔥 **Important:**  
-> After installing, build the solution (`Ctrl+Shift+B`) to ensure everything compiles.
+> After installing, build the solution to ensure everything compiles.
 
 ---
 
 ### 3. Install Python Dependencies
 Install the required Python packages for AI inference:
 ```
-pip install torch transformers>=4.37.0 huggingface_hub bitsandbytes psutil
+pip install torch transformers huggingface_hub bitsandbytes psutil
 ```
 
 ---
@@ -126,20 +126,16 @@ ChatSystem/
 ---
 
 ### 5. Configure the Project
-- Confirm Python is installed:
-  ```
-  python --version
-  ```
 - Ensure `tinyllama_inference.py` exists under your project and will copy during build.
 
 ---
 
 ## 🚀 Running the Application
 1. Open the solution in Visual Studio.
-2. Build (`Ctrl+Shift+B`).
-3. Run (`F5`).
+2. Build.
+3. Run.
 4. Select an AI model.
-5. Chat away!
+5. Chat.
 
 🔑 **To copy a chat message:**  
 Highlight it and press **Ctrl+C**.
